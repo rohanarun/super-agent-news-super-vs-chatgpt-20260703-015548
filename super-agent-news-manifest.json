@@ -1,0 +1,31 @@
+{
+  "citations": [
+    "[zapier.com](https://zapier.com/blog/claude-vs-chatgpt/)",
+    "[faq.com.tw](https://faq.com.tw/en/products/2026-06-09-openai-chatgpt-superapp-aria-agents-en/)",
+    "[en.softonic.com](https://en.softonic.com/articles/chatgpt-now-has-scheduled-tasks)",
+    "[androidauthority.com](https://www.androidauthority.com/chatgpt-scheduled-tasks-review-3495678/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[bgr.com](https://bgr.com/tech/ditch-siri-for-these-5-ios-compatible-alternatives/)",
+    "[mit.edu](https://news.mit.edu/2026/what-is-agentic-ai-0630)"
+  ],
+  "design_plan": "rng=42; hero_math=1120px/2.3 lines; AIDA=pass; bento_density=grid-auto-flow:dense verified; labels=competitors sweep pass; CTA contrast=black/white pass",
+  "generated_at": "2026-07-03T01:55:54.990060+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is a world\u2011class general AI assistant that\u2019s rapidly evolving toward agents, scheduled tasks, and orchestration across tools. Super is built specifically for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper over time. This page fairly explains what ChatGPT is great at, what it\u2019s not optimized for, and why Super is the sharper alternative for durable computer\u2011use work."
+}
